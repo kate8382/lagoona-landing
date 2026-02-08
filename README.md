@@ -4,7 +4,7 @@ Short: a learning landing page for the Lagoona hotel chain, built with HTML and 
 
 **What's included**
 
-- **Files:** [index.html](index.html), [css/style.css](css/style.css),[LICENSE](LICENSE)
+- **Files:** [index.html](index.html), [css/style.css](css/style.css), [LICENSE](LICENSE)
 
 **Topics and techniques covered**
 
